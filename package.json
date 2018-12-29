@@ -1,0 +1,15 @@
+{
+  "name": "videotimer",
+  "version": "1.0.0",
+  "description": "Gets metadata from video",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "author": "Jordan Archer",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
